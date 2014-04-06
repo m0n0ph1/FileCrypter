@@ -1,0 +1,25 @@
+#
+# General directory ignores
+#
+bin/
+ipch/
+obj/
+debug/
+Release/
+
+#
+# General files ignore
+#
+*.sdf
+*.opensdf
+# These files contain user preference configurations that are in general specific to your machine, so it's better not to put it in SCM.
+*.suo
+*.tlog
+*.pdb
+*.obj
+*.dll
+*.exe
+*.txt
+*.cache
+*.log
+*.user
